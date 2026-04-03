@@ -31,7 +31,7 @@ This project was created to practice building real-world web interfaces, improve
 ---
 
 ## 🌐 #LiveDemo
-https://PolianskyiDmytro.github.io/NAMU-museum-landing-page/
+[View Project](https://PolianskyiDmytro.github.io/NAMU-museum-landing-page/)
 
 ---
 
