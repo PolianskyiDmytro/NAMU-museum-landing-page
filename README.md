@@ -38,7 +38,7 @@ This project was created to practice building real-world web interfaces, improve
 ## 🚀 #GettingStarted
 
 ### 📥 Clone the repository
-git clone https://github.com/PolianskyiDmytro/Museum.git
+git clone https://github.com/PolianskyiDmytro/NAMU-museum-landing-page.git
 
 cd Museum
 
